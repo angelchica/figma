@@ -1,0 +1,25 @@
+body{
+ color: white ;
+ position: relative;
+
+
+background: #251F24;}
+
+
+
+.linea {
+  position: relative;
+  width: 80px;
+  height: 4px;
+  left: 0px;
+  margin: 4px 0px;
+
+  background: #424242;
+}
+
+section{
+  position: static;
+width: 700px;
+
+  border: 1px solid white
+}
